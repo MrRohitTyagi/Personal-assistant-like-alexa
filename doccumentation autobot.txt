@@ -1,0 +1,34 @@
+all functions=>
+1-search anything in wikipedia
+2 open youtube
+3 open google ,later say what u want to search
+4 open facebook 
+5 open instagram
+6 play music,speak the song name afterwords
+7 tell me the time
+8 tell me the date
+9 heloo david
+10 set reminder,speak as per program says
+11 what are my reminders(u have to set remnders first)
+12 send email(only applicable to 4 people rohit,naksh, shubham, vikas) later speak as bot says
+13 tell me news ,  later speak as bot says(business.entertainment,science,technology)available
+14 shutdown(exit all)
+15 open notepad
+16 open taskmanager
+17 set minute  alarm(only minute alarm available kyuke kon he open rakhega program ko hours tak)
+18 tell me a joke
+19 open google chrome
+
+
+
+=>packages to install
+pip install json
+pip install datetime
+pip install wikipedia
+pip install webbrowser
+pip install requests
+pip install pywhatkit
+pip install pyjokes
+pip install pygame
+pip install speechrecognition
+pip install pyttsx3
