@@ -105,7 +105,7 @@ def send_email(email_name):
     s = smtplib.SMTP('smtp.gmail.com', 587)
     s.ehlo()
     s.starttls()
-    s.login('rt2tyagi4366@gmail.com', '11101999tyagi')
+    s.login('enter your email here', '<enter your password noob>')
     msg = email_input()
     s.sendmail("rt2tyagi4366@gmail.com", email_name, msg)
     s.quit()
